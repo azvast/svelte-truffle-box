@@ -1,0 +1,39 @@
+{
+    "name": "svelte-tailwind-box",
+    "version": "1.0.0",
+    "description": "Truffle box with Svelte, Tailwind, and Rollup",
+    "scripts": {
+        "build": "rollup -c",
+        "dev": "rollup -c -w",
+        "start": "sirv public"
+    },
+    "keywords": [],
+    "author": "Maxwell Fortney",
+    "license": "MIT",
+    "peerDependencies": {
+        "truffle": "5.x"
+    },
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^17.1.0",
+        "@rollup/plugin-json": "^4.1.0",
+        "@rollup/plugin-node-resolve": "^11.2.0",
+        "autoprefixer": "^10.2.5",
+        "postcss": "^8.2.8",
+        "rollup": "^2.41.2",
+        "rollup-plugin-css-only": "^3.1.0",
+        "rollup-plugin-livereload": "^2.0.0",
+        "rollup-plugin-svelte": "^7.1.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "svelte": "^3.35.0",
+        "svelte-preprocess": "^4.6.9",
+        "tailwindcss": "^2.0.3"
+    },
+    "dependencies": {
+        "sirv-cli": "^1.0.11",
+        "svelte-web3": "^1.2.9"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxwellfortney/svelte-tailwind-box.git"
+      }
+}

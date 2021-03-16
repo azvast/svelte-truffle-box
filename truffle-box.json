@@ -1,0 +1,13 @@
+{
+    "ignore": ["README.md", ".gitignore"],
+    "commands": {
+        "compile": "truffle compile",
+        "migrate": "truffle migrate",
+        "deploy": "truffle deploy",
+        "test": "truffle test",
+        "package": "npm run build"
+    },
+    "hooks": {
+        "post-unpack": "npm ci"
+    }
+}
