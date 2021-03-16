@@ -3,7 +3,7 @@
 # Svelte Truffle Box
 A Truffle box using [SvelteJS](https://svelte.technology/), [TailwindCSS](https://tailwindcss.com/), and [Rollup](https://rollupjs.org/).
 
-This box contains everything you need to start building a DApp. However, you may want to replace the `svelte-web3` package due to unknown maintenance status (See ).
+This box contains everything you need to start building a DApp. However, you may want to replace the `svelte-web3` package due to unknown maintenance status (See [Web3](#web3)).
 
 ## Truffle Box
 
