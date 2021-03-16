@@ -78,6 +78,6 @@ This project is comes with `svelte-web3`, however I'm unsure of the maintainabil
 Feel free to submit a PR, or an issue, and I will try my best to address it. 
 
 ## Credits
-Inspiration, and most of the readme is from here [svelte-box](https://github.com/antony/svelte-box)
+Inspiration, images, and most of the readme is from here [svelte-box](https://github.com/antony/svelte-box)
 
 Basic svelte project [svelte-template](https://github.com/sveltejs/template)
